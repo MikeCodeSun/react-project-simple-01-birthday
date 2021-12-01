@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MikeCodeSun/simple-html-css-project/static/css/main.a8763240.chunk.css",
+    "main.js": "/MikeCodeSun/simple-html-css-project/static/js/main.4c0825d4.chunk.js",
+    "main.js.map": "/MikeCodeSun/simple-html-css-project/static/js/main.4c0825d4.chunk.js.map",
+    "runtime-main.js": "/MikeCodeSun/simple-html-css-project/static/js/runtime-main.d7e6af34.js",
+    "runtime-main.js.map": "/MikeCodeSun/simple-html-css-project/static/js/runtime-main.d7e6af34.js.map",
+    "static/js/2.cacfa5f9.chunk.js": "/MikeCodeSun/simple-html-css-project/static/js/2.cacfa5f9.chunk.js",
+    "static/js/2.cacfa5f9.chunk.js.map": "/MikeCodeSun/simple-html-css-project/static/js/2.cacfa5f9.chunk.js.map",
+    "static/js/3.92dae4e7.chunk.js": "/MikeCodeSun/simple-html-css-project/static/js/3.92dae4e7.chunk.js",
+    "static/js/3.92dae4e7.chunk.js.map": "/MikeCodeSun/simple-html-css-project/static/js/3.92dae4e7.chunk.js.map",
+    "index.html": "/MikeCodeSun/simple-html-css-project/index.html",
+    "static/css/main.a8763240.chunk.css.map": "/MikeCodeSun/simple-html-css-project/static/css/main.a8763240.chunk.css.map",
+    "static/js/2.cacfa5f9.chunk.js.LICENSE.txt": "/MikeCodeSun/simple-html-css-project/static/js/2.cacfa5f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7e6af34.js",
+    "static/js/2.cacfa5f9.chunk.js",
+    "static/css/main.a8763240.chunk.css",
+    "static/js/main.4c0825d4.chunk.js"
+  ]
+}
